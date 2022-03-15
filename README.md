@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guivbatista
-- 👀 I’m interested in operations reasearch
-- 🌱 I’m currently learning Java Scrip, CSS, HTML.
-- 💞️ I’m looking to collaborate on applications involving optimizations, especially in logistics.
+- 👀 I’m interested in artificial intelligence and operations reasearch
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on applications involving articial intelligence and mathematical optimizations.
 
 <!---
 guivbatista/guivbatista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
